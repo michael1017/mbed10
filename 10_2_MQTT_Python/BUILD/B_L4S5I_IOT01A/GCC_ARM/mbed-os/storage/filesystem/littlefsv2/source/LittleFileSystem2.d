@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/filesystem/littlefsv2/source/LittleFileSystem2.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/filesystem/littlefsv2/source/LittleFileSystem2.o: \
  /home/ee2405/ee2405/mbed-os/storage/filesystem/littlefsv2/source/LittleFileSystem2.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/storage/filesystem/include/filesystem/mbed_filesystem.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/platform.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_retarget.h \

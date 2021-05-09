@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lorawan/system/LoRaWANTimer.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lorawan/system/LoRaWANTimer.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/lorawan/system/LoRaWANTimer.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lorawan/system/LoRaWANTimer.h \
  /home/ee2405/ee2405/mbed-os/events/include/events/EventQueue.h \
  /home/ee2405/ee2405/mbed-os/events/include/events/equeue.h \

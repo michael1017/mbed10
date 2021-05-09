@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/direct_access_devicekey/source/DirectAccessDevicekey.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/direct_access_devicekey/source/DirectAccessDevicekey.o: \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/direct_access_devicekey/source/DirectAccessDevicekey.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/direct_access_devicekey/include/direct_access_devicekey/DirectAccessDevicekey.h \
  /home/ee2405/ee2405/mbed-os/drivers/include/drivers/FlashIAP.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/flash_api.h \

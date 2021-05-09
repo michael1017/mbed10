@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/static_pinmap.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/static_pinmap.o: \
  /home/ee2405/ee2405/mbed-os/hal/source/static_pinmap.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_error.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_retarget.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_toolchain.h \

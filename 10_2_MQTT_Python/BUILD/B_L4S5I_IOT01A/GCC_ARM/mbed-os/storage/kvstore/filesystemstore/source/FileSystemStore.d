@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/filesystemstore/source/FileSystemStore.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/filesystemstore/source/FileSystemStore.o: \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/filesystemstore/source/FileSystemStore.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/filesystemstore/include/filesystemstore/FileSystemStore.h \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/include/kvstore/KVStore.h \
  /home/ee2405/ee2405/mbed-os/storage/filesystem/include/filesystem/FileSystem.h \

@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/tdbstore/source/TDBStore.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/tdbstore/source/TDBStore.o: \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/tdbstore/source/TDBStore.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/tdbstore/include/tdbstore/TDBStore.h \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/include/kvstore/KVStore.h \
  /home/ee2405/ee2405/mbed-os/storage/blockdevice/include/blockdevice/BlockDevice.h \

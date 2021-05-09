@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/kvstore_global_api/source/KVMap.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/kvstore/kvstore_global_api/source/KVMap.o: \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/kvstore_global_api/source/KVMap.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/include/kvstore/KVStore.h \
  /home/ee2405/ee2405/mbed-os/storage/kvstore/kvstore_global_api/include/kvstore_global_api/KVMap.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/PlatformMutex.h \

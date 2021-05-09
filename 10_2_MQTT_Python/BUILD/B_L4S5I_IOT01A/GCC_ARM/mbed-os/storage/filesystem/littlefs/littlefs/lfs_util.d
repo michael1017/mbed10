@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/filesystem/littlefs/littlefs/lfs_util.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/filesystem/littlefs/littlefs/lfs_util.o: \
  /home/ee2405/ee2405/mbed-os/storage/filesystem/littlefs/littlefs/lfs_util.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/storage/filesystem/littlefs/littlefs/lfs_util.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_debug.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_toolchain.h \

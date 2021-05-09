@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/mbed_us_ticker_api.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/mbed_us_ticker_api.o: \
  /home/ee2405/ee2405/mbed-os/hal/source/mbed_us_ticker_api.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_atomic.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/cmsis.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/STM32Cube_FW/CMSIS/stm32l4xx.h \

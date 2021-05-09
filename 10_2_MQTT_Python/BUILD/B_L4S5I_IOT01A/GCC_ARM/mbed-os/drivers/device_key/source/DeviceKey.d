@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/device_key/source/DeviceKey.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/device_key/source/DeviceKey.o: \
  /home/ee2405/ee2405/mbed-os/drivers/device_key/source/DeviceKey.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/drivers/device_key/include/device_key/DeviceKey.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/NonCopyable.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/cmac.h \

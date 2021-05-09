@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/stack/smp/smpi_sc_act.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/stack/smp/smpi_sc_act.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/stack/smp/smpi_sc_act.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_types.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_buf.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_msg.h \

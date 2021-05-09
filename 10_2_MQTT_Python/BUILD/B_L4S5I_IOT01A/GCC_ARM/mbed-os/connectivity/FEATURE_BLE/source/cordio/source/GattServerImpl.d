@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/cordio/source/GattServerImpl.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/cordio/source/GattServerImpl.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/source/cordio/source/GattServerImpl.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/include/ble/common/BLERoles.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/source/cordio/source/GattServerImpl.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_types.h \

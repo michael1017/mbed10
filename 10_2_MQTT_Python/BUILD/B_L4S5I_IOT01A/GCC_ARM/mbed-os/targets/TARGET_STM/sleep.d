@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/targets/TARGET_STM/sleep.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/targets/TARGET_STM/sleep.o: \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/sleep.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/sleep_api.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/device.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/objects.h \

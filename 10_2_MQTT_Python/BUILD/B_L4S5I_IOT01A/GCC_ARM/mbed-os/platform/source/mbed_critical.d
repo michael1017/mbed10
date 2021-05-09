@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_critical.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_critical.o: \
  /home/ee2405/ee2405/mbed-os/platform/source/mbed_critical.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/critical_section_api.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/cmsis.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/STM32Cube_FW/CMSIS/stm32l4xx.h \

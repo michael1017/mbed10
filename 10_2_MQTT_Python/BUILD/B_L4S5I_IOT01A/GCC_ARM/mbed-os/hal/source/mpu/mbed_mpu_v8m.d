@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/mpu/mbed_mpu_v8m.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/mpu/mbed_mpu_v8m.o: \
  /home/ee2405/ee2405/mbed-os/hal/source/mpu/mbed_mpu_v8m.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/mpu_api.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/device.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/objects.h \

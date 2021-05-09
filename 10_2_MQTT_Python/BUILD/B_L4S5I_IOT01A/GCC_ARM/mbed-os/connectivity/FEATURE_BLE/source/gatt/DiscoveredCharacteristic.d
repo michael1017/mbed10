@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/gatt/DiscoveredCharacteristic.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/gatt/DiscoveredCharacteristic.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/source/gatt/DiscoveredCharacteristic.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/include/ble/BLE.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_error.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_retarget.h \

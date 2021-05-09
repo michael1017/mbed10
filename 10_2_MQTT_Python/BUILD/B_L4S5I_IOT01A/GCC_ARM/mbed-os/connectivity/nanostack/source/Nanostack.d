@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/source/Nanostack.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/source/Nanostack.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/source/Nanostack.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/include/nanostack-interface/Nanostack.h \
  /home/ee2405/ee2405/mbed-os/connectivity/netsocket/include/netsocket/OnboardNetworkStack.h \
  /home/ee2405/ee2405/mbed-os/connectivity/netsocket/include/netsocket/nsapi.h \

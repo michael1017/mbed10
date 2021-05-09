@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/mbedtls/source/ssl_cookie.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/mbedtls/source/ssl_cookie.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/source/ssl_cookie.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/platform/inc/platform_mbed.h \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/mbedtls/TARGET_STM/TARGET_STM32L4S5xI/mbedtls_device.h \
@@ -24,6 +24,7 @@
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/x509_crl.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/ecdh.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/ssl_internal.h \
+ /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/sha1.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/sha256.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/sha512.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/error.h

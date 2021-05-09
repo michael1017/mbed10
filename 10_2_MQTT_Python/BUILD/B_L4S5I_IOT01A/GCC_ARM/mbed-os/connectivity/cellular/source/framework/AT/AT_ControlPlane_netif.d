@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/cellular/source/framework/AT/AT_ControlPlane_netif.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/cellular/source/framework/AT/AT_ControlPlane_netif.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/source/framework/AT/AT_ControlPlane_netif.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/common/CellularUtil.h \
  /home/ee2405/ee2405/mbed-os/connectivity/netsocket/include/netsocket/nsapi_types.h \
  /home/ee2405/ee2405/mbed-os/rtos/include/rtos/ThisThread.h \

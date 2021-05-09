@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/coap-service/source/coap_security_handler.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/coap-service/source/coap_security_handler.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/coap-service/source/coap_security_handler.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/coap-service/source/include/coap_security_handler.h \
  /home/ee2405/ee2405/mbed-os/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/config.h \

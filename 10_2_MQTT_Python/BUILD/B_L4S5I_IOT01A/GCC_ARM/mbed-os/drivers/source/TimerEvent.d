@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/source/TimerEvent.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/source/TimerEvent.o: \
  /home/ee2405/ee2405/mbed-os/drivers/source/TimerEvent.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/drivers/include/drivers/TimerEvent.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/ticker_api.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/device.h \

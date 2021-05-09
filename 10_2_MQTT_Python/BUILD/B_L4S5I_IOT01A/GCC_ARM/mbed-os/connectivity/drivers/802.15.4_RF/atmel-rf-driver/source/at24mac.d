@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/802.15.4_RF/atmel-rf-driver/source/at24mac.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/802.15.4_RF/atmel-rf-driver/source/at24mac.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/802.15.4_RF/atmel-rf-driver/source/at24mac.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/802.15.4_RF/atmel-rf-driver/source/at24mac.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/TARGET_STM32L4S5xI/TARGET_B_L4S5I_IOT01A/PinNames.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/cmsis.h \

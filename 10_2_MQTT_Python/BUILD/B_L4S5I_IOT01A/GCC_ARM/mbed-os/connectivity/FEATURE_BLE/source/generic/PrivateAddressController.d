@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/generic/PrivateAddressController.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/generic/PrivateAddressController.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/source/generic/PrivateAddressController.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/source/generic/PrivateAddressController.h \
  /home/ee2405/ee2405/mbed-os/drivers/include/drivers/LowPowerTicker.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/platform.h \

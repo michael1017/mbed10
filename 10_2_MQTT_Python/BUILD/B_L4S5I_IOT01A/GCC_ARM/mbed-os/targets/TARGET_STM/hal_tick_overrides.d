@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/targets/TARGET_STM/hal_tick_overrides.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/targets/TARGET_STM/hal_tick_overrides.o: \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/hal_tick_overrides.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/us_ticker_api.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/ticker_api.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/device.h \

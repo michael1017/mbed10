@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_alloc_wrappers.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_alloc_wrappers.o: \
  /home/ee2405/ee2405/mbed-os/platform/source/mbed_alloc_wrappers.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_mem_trace.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_stats.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/ticker_api.h \

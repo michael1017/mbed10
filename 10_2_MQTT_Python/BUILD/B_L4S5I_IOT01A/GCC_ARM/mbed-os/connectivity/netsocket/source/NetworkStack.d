@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/netsocket/source/NetworkStack.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/netsocket/source/NetworkStack.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/netsocket/source/NetworkStack.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/netsocket/include/netsocket/NetworkStack.h \
  /home/ee2405/ee2405/mbed-os/connectivity/netsocket/include/netsocket/nsapi_types.h \
  /home/ee2405/ee2405/mbed-os/connectivity/netsocket/include/netsocket/SocketAddress.h \

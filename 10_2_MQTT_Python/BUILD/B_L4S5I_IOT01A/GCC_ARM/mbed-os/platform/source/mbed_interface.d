@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_interface.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_interface.o: \
  /home/ee2405/ee2405/mbed-os/platform/source/mbed_interface.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_interface.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_toolchain.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_preprocessor.h \

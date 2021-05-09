@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/features/frameworks/greentea-client/source/greentea_metrics.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/features/frameworks/greentea-client/source/greentea_metrics.o: \
  /home/ee2405/ee2405/mbed-os/features/frameworks/greentea-client/source/greentea_metrics.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/features/frameworks/greentea-client/greentea-client/test_env.h \
  /home/ee2405/ee2405/mbed-os/features/frameworks/greentea-client/greentea-client/greentea_metrics.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_stats.h \

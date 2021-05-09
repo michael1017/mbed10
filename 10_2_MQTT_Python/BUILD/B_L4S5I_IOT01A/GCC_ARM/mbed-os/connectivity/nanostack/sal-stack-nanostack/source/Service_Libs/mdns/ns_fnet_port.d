@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/mdns/ns_fnet_port.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/mdns/ns_fnet_port.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/mdns/ns_fnet_port.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/mdns/fnet/fnet_stack/fnet.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/mdns/fnet/fnet_stack/fnet_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/mdns/fnet_user_config.h \

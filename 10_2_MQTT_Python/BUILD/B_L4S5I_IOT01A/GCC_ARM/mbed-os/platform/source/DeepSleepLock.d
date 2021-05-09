@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/DeepSleepLock.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/DeepSleepLock.o: \
  /home/ee2405/ee2405/mbed-os/platform/source/DeepSleepLock.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/DeepSleepLock.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_atomic.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/cmsis.h \

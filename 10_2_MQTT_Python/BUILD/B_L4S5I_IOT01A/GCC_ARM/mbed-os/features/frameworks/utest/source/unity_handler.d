@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/features/frameworks/utest/source/unity_handler.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/features/frameworks/utest/source/unity_handler.o: \
  /home/ee2405/ee2405/mbed-os/features/frameworks/utest/source/unity_handler.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/features/frameworks/utest/utest/utest_harness.h \
  /home/ee2405/ee2405/mbed-os/features/frameworks/utest/utest/utest_types.h \
  /home/ee2405/ee2405/mbed-os/features/frameworks/utest/utest/utest_shim.h \

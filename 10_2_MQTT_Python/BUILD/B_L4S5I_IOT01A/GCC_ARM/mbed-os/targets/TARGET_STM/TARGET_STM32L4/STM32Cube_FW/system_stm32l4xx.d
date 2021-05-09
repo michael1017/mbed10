@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32L4/STM32Cube_FW/system_stm32l4xx.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/targets/TARGET_STM/TARGET_STM32L4/STM32Cube_FW/system_stm32l4xx.o: \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/STM32Cube_FW/system_stm32l4xx.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/STM32Cube_FW/CMSIS/stm32l4xx.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/STM32Cube_FW/CMSIS/stm32l4s5xx.h \
  /home/ee2405/ee2405/mbed-os/cmsis/CMSIS_5/CMSIS/TARGET_CORTEX_M/Include/core_cm4.h \

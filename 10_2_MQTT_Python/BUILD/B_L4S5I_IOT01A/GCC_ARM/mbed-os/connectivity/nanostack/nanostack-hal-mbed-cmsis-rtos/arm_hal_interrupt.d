@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/nanostack-hal-mbed-cmsis-rtos/arm_hal_interrupt.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/nanostack-hal-mbed-cmsis-rtos/arm_hal_interrupt.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/nanostack-hal-mbed-cmsis-rtos/arm_hal_interrupt.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/libraries/nanostack-libservice/mbed-client-libservice/platform/arm_hal_interrupt.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/nanostack-hal-mbed-cmsis-rtos/arm_hal_interrupt_private.h \
  /home/ee2405/ee2405/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/Include/cmsis_os2.h \

@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/cellular/source/framework/device/CellularStateMachine.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/cellular/source/framework/device/CellularStateMachine.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/source/framework/device/CellularStateMachine.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/device/CellularStateMachine.h \
  /home/ee2405/ee2405/mbed-os/events/include/events/EventQueue.h \
  /home/ee2405/ee2405/mbed-os/events/include/events/equeue.h \

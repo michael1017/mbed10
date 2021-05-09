@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/usb/source/USBDevice.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/usb/source/USBDevice.o: \
  /home/ee2405/ee2405/mbed-os/drivers/usb/source/USBDevice.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/drivers/usb/include/usb/internal/USBDevice.h \
  /home/ee2405/ee2405/mbed-os/drivers/usb/include/usb/internal/USBDevice_Types.h \
  /home/ee2405/ee2405/mbed-os/hal/usb/include/usb/USBPhy.h \

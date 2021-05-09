@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/cellular/QUECTEL/M26/QUECTEL_M26_CellularInformation.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/cellular/QUECTEL/M26/QUECTEL_M26_CellularInformation.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/cellular/QUECTEL/M26/QUECTEL_M26_CellularInformation.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/cellular/QUECTEL/M26/QUECTEL_M26_CellularInformation.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/AT/AT_CellularInformation.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/API/CellularInformation.h \

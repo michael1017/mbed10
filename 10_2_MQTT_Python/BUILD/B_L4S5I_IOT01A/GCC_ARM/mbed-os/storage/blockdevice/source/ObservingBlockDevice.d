@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/blockdevice/source/ObservingBlockDevice.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/storage/blockdevice/source/ObservingBlockDevice.o: \
  /home/ee2405/ee2405/mbed-os/storage/blockdevice/source/ObservingBlockDevice.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/storage/blockdevice/include/blockdevice/ObservingBlockDevice.h \
  /home/ee2405/ee2405/mbed-os/storage/blockdevice/include/blockdevice/BlockDevice.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/PlatformMutex.h \

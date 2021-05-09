@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/802.15.4_RF/mcr20a-rf-driver/source/NanostackRfPhyMcr20a.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/802.15.4_RF/mcr20a-rf-driver/source/NanostackRfPhyMcr20a.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/802.15.4_RF/mcr20a-rf-driver/source/NanostackRfPhyMcr20a.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/802.15.4_RF/mcr20a-rf-driver/mcr20a-rf-driver/NanostackRfPhyMcr20a.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/include/nanostack-interface/NanostackRfPhy.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/include/nanostack-interface/NanostackMACPhy.h \

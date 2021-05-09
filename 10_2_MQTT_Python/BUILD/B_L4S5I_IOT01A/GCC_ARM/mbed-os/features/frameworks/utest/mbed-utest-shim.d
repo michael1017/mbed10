@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/features/frameworks/utest/mbed-utest-shim.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/features/frameworks/utest/mbed-utest-shim.o: \
  /home/ee2405/ee2405/mbed-os/features/frameworks/utest/mbed-utest-shim.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_critical.h \
  /home/ee2405/ee2405/mbed-os/features/frameworks/utest/utest/utest.h \
  /home/ee2405/ee2405/mbed-os/features/frameworks/utest/utest/utest_types.h \

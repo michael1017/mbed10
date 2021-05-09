@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/source/I2CSlave.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/source/I2CSlave.o: \
  /home/ee2405/ee2405/mbed-os/drivers/source/I2CSlave.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/drivers/include/drivers/I2CSlave.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/platform.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_retarget.h \

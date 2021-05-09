@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lwipstack/lwip/src/netif/lwip_lowpan6_common.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lwipstack/lwip/src/netif/lwip_lowpan6_common.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/lwip/src/netif/lwip_lowpan6_common.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/lwip/src/include/netif/lowpan6_common.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/lwip/src/include/netif/lowpan6_opts.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/lwip/src/include/lwip/opt.h \

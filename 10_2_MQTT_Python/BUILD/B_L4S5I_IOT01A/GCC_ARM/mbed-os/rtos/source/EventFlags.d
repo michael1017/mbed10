@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/rtos/source/EventFlags.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/rtos/source/EventFlags.o: \
  /home/ee2405/ee2405/mbed-os/rtos/source/EventFlags.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/rtos/include/rtos/EventFlags.h \
  /home/ee2405/ee2405/mbed-os/rtos/include/rtos/Kernel.h \
  /home/ee2405/ee2405/mbed-os/rtos/include/rtos/mbed_rtos_types.h \

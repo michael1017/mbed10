@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/802.15.4_RF/stm-s2lp-rf-driver/source/at24mac_s2lp.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/802.15.4_RF/stm-s2lp-rf-driver/source/at24mac_s2lp.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/802.15.4_RF/stm-s2lp-rf-driver/source/at24mac_s2lp.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/802.15.4_RF/stm-s2lp-rf-driver/stm-s2lp-rf-driver/NanostackRfPhys2lp.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/include/nanostack-interface/NanostackRfPhy.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/include/nanostack-interface/NanostackMACPhy.h \

@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/mbed_pinmap_default.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/hal/source/mbed_pinmap_default.o: \
  /home/ee2405/ee2405/mbed-os/hal/source/mbed_pinmap_default.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/pinmap.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/TARGET_STM32L4S5xI/TARGET_B_L4S5I_IOT01A/PinNames.h \
  /home/ee2405/ee2405/mbed-os/targets/TARGET_STM/TARGET_STM32L4/cmsis.h \

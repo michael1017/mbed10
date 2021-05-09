@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lwipstack/source/LWIPInterfaceL3IP.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lwipstack/source/LWIPInterfaceL3IP.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/source/LWIPInterfaceL3IP.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/lwip/src/include/lwip/tcpip.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/lwip/src/include/lwip/opt.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lwipstack/include/lwipstack/lwipopts.h \

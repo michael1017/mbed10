@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/stack/att/attc_write.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/stack/att/attc_write.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/ble-host/sources/stack/att/attc_write.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_types.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_msg.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/wsf/include/wsf_queue.h \

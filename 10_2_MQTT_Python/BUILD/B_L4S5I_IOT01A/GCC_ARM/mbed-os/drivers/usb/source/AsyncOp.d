@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/usb/source/AsyncOp.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/usb/source/AsyncOp.o: \
  /home/ee2405/ee2405/mbed-os/drivers/usb/source/AsyncOp.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/drivers/usb/include/usb/internal/AsyncOp.h \
  /home/ee2405/ee2405/mbed-os/rtos/include/rtos/Mutex.h \
  /home/ee2405/ee2405/mbed-os/rtos/include/rtos/mbed_rtos_types.h \

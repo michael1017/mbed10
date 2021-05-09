@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/mbedtls/platform/src/platform_alt.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/mbedtls/platform/src/platform_alt.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/platform/src/platform_alt.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/platform.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/platform/inc/platform_mbed.h \

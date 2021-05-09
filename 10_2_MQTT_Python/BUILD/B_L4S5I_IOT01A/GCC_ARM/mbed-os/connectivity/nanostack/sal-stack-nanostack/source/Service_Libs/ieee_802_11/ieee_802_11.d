@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/ieee_802_11/ieee_802_11.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/ieee_802_11/ieee_802_11.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/ieee_802_11/ieee_802_11.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/nsconfig.h \
  /home/ee2405/ee2405/mbed-os/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/configs/cfg_nanostack_full.h \

@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_poll.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/platform/source/mbed_poll.o: \
  /home/ee2405/ee2405/mbed-os/platform/source/mbed_poll.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_poll.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/FileHandle.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/Callback.h \

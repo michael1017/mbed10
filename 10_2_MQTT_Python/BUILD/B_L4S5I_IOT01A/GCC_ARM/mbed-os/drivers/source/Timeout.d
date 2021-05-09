@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/source/Timeout.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/source/Timeout.o: \
  /home/ee2405/ee2405/mbed-os/drivers/source/Timeout.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/drivers/include/drivers/Timeout.h \
  /home/ee2405/ee2405/mbed-os/drivers/include/drivers/HighResClock.h \
  /home/ee2405/ee2405/mbed-os/hal/include/hal/us_ticker_api.h \

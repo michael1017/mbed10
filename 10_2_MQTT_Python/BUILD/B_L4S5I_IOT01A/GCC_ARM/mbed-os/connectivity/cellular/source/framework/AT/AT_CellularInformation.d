@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/cellular/source/framework/AT/AT_CellularInformation.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/cellular/source/framework/AT/AT_CellularInformation.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/source/framework/AT/AT_CellularInformation.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/AT/AT_CellularDevice.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/API/CellularDevice.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/device/CellularStateMachine.h \

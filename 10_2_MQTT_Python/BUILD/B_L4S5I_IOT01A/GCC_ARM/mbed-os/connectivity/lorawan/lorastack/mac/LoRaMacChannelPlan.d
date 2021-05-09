@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lorawan/lorastack/mac/LoRaMacChannelPlan.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/lorawan/lorastack/mac/LoRaMacChannelPlan.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/lorawan/lorastack/mac/LoRaMacChannelPlan.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lorawan/lorastack/mac/LoRaMacChannelPlan.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lorawan/system/lorawan_data_structures.h \
  /home/ee2405/ee2405/mbed-os/connectivity/lorawan/include/lorawan/lorawan_types.h \

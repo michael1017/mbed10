@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/cordio/stack_adaptation/pal_mbed_os_adaptation.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/FEATURE_BLE/source/cordio/stack_adaptation/pal_mbed_os_adaptation.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/source/cordio/stack_adaptation/pal_mbed_os_adaptation.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/platform/include/pal_types.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/platform/include/pal_uart.h \
  /home/ee2405/ee2405/mbed-os/connectivity/FEATURE_BLE/libraries/cordio_stack/platform/include/pal_types.h \

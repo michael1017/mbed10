@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/CCM_lib/mbedOS/aes_mbedtls_adapter.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/CCM_lib/mbedOS/aes_mbedtls_adapter.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/source/Service_Libs/CCM_lib/mbedOS/aes_mbedtls_adapter.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/nanostack/sal-stack-nanostack/nanostack/platform/arm_hal_aes.h \
  /home/ee2405/ee2405/mbed-os/connectivity/libraries/nanostack-libservice/mbed-client-libservice/ns_types.h \
  /home/ee2405/ee2405/mbed-os/connectivity/libraries/nanostack-libservice/mbed-client-libservice/platform/arm_hal_interrupt.h \

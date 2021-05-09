@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/cellular/UBLOX/AT/UBLOX_AT_CellularContext.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/cellular/UBLOX/AT/UBLOX_AT_CellularContext.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/cellular/UBLOX/AT/UBLOX_AT_CellularContext.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/cellular/UBLOX/AT/UBLOX_AT_CellularContext.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/AT/AT_CellularContext.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/API/CellularContext.h \

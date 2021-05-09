@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/libraries/ppp/source/ppp_service_if.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/libraries/ppp/source/ppp_service_if.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/libraries/ppp/source/ppp_service_if.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_interface.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_toolchain.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_preprocessor.h \

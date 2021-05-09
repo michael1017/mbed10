@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/cellular/RiotMicro/AT/RM1000_AT.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/cellular/RiotMicro/AT/RM1000_AT.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/cellular/RiotMicro/AT/RM1000_AT.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/cellular/RiotMicro/AT/RM1000_AT.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/AT/AT_CellularDevice.h \
  /home/ee2405/ee2405/mbed-os/connectivity/cellular/include/cellular/framework/API/CellularDevice.h \

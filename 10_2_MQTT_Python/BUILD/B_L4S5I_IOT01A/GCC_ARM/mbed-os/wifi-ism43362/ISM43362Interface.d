@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/wifi-ism43362/ISM43362Interface.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/wifi-ism43362/ISM43362Interface.o: \
  /home/ee2405/ee2405/mbed-os/wifi-ism43362/ISM43362Interface.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/wifi-ism43362/ISM43362Interface.h \
  /home/ee2405/ee2405/mbed-os/mbed.h \
  /home/ee2405/ee2405/mbed-os/platform/include/platform/mbed_version.h \

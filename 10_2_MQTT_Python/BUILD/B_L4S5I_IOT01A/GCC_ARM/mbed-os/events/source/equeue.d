@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/events/source/equeue.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/events/source/equeue.o: \
  /home/ee2405/ee2405/mbed-os/events/source/equeue.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/events/include/events/equeue.h \
  /home/ee2405/ee2405/mbed-os/events/include/events/internal/equeue_platform.h \
  /home/ee2405/ee2405/mbed-os/cmsis/CMSIS_5/CMSIS/RTOS2/Include/cmsis_os2.h \

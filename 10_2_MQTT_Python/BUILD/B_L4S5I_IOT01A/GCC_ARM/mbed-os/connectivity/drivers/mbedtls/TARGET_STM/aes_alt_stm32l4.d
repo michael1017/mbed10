@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/mbedtls/TARGET_STM/aes_alt_stm32l4.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/connectivity/drivers/mbedtls/TARGET_STM/aes_alt_stm32l4.o: \
  /home/ee2405/ee2405/mbed-os/connectivity/drivers/mbedtls/TARGET_STM/aes_alt_stm32l4.c \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/aes.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/include/mbedtls/config.h \
  /home/ee2405/ee2405/mbed-os/connectivity/mbedtls/platform/inc/platform_mbed.h \

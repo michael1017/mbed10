@@ -1,6 +1,6 @@
-../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/usb/source/PolledQueue.o: \
+BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed-os/drivers/usb/source/PolledQueue.o: \
  /home/ee2405/ee2405/mbed-os/drivers/usb/source/PolledQueue.cpp \
- ../BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
+ BUILD/B_L4S5I_IOT01A/GCC_ARM/mbed_config.h \
  /home/ee2405/ee2405/mbed-os/drivers/usb/include/usb/internal/PolledQueue.h \
  /home/ee2405/ee2405/mbed-os/drivers/usb/include/usb/internal/TaskQueue.h \
  /home/ee2405/ee2405/mbed-os/drivers/usb/include/usb/internal/TaskBase.h \
